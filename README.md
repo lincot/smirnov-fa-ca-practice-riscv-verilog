@@ -111,7 +111,7 @@
 # Основная литература
 
 
-- [Видеозаписи](https://www.youtube.com/c/%D0%90%D0%9F%D0%A1%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2), [презентации](https://github.com/MPSU/APS-lect-presentations) и [конспекты](Lectures) лекций с прошлых лет.
+- [Видеозаписи](https://www.youtube.com/c/%D0%90%D0%9F%D0%A1%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2), [презентации](APS-lect-presentations) и [конспекты](Lectures) лекций с прошлых лет.
 
 # Дополнительные материалы и литература 
 ([Other/Further readings.md](Other/Further%20readings.md))
