@@ -1,5 +1,7 @@
 # Лабораторная работа 1 "Сумматор"
 
+[Семинар 1](https://www.youtube.com/watch?v=04p_ezsXgf0&list=PL0def37HEo5LTO0zZtER6-7oRNnvx2dEi&index=1)
+
 ## Цель
 
 Познакомиться с САПР Vivado и научиться реализовывать в нём простейшие схемотехнические модули с помощью конструкций языка SystemVerilog.
